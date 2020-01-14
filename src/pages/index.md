@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: カルディコーヒーファーム
+title: カルディコーヒーファーム１
 image: /img/home-jumbotron.jpg
 heading: キャメル珈琲グループの取り組み
 subheading: コーヒーと輸入食品のワンダーショップ
