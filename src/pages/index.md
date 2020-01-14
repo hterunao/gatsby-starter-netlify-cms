@@ -1,30 +1,37 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: カルディコーヒーファーム
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: キャメル珈琲グループの取り組み
+subheading: コーヒーと輸入食品のワンダーショップ
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  title: 私たちが目指すこと
+  description: |-
+    「地球にいいことしてる？」
+
+    「自分たちの住んでいる地球をこわしてどうするの？」
+
+    「自分たちの住んでいる地球を住みやすくした方が良いよね？」
+
+    「だから地球のためにいいことしよう。」
+
+    「自然を大切にする。」
+
+    「環境を大切にする。」
+
+    「そうして地球に住んでいるみんなが幸せになる。」
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  『10歳の頭と心で世界をみよう！地球にやさしい生き方でやろうよ』
+  世界の貧困をなくしたい、核をなくしたい、地球にいいことをしたいと思っていてもテーマが大き過ぎるように感じるかもしれませんが、10歳でもわかる簡単な方法で実現できることかもしれません。
+  カルディコーヒーファームの商品は、購入することで地球を守る手段となる「バードフレンドリー®」や、貧困をなくすための仕組みがされている「ドイトンプロジェクト」があります。その商品に隠されたメッセージを私たちが理解し販売することが地球にやさしい生き方への第一歩となるでしょう。そしてそれは、お客さまを始め、家族、周囲の人々に必ず伝わり、地球の未来につながっていくと信じています。
 intro:
   blurbs:
     - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+      text: >-
+        渡り鳥が休息する森で生まれた「バードフレンドリー®コーヒー」は、熱帯の森林を利用したシェードグロウン(木陰栽培)、かつ有機栽培で生産されたコーヒーをプレミアム価格で買い取ることで、生産農家を支えながら森林伐採も防止し、そこで休む渡り鳥を守るプログラムです。
+
+
+        コーヒーから生まれた収益の一部は、このプログラムを創設したスミソニアン渡り鳥センターの研究資金となり、世界中の渡り鳥や環境の保護に還元されています。
     - image: /img/coffee-gear.png
       text: >
         We offer a small, but carefully curated selection of brewing gear and
@@ -47,10 +54,11 @@ intro:
         sale. The full price you pay goes to the artist.
   heading: What we offer
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    『10歳の頭と心で世界をみよう！地球にやさしい生き方でやろうよ』
+
+    世界の貧困をなくしたい、核をなくしたい、地球にいいことをしたいと思っていてもテーマが大き過ぎるように感じるかもしれませんが、10歳でもわかる簡単な方法で実現できることかもしれません。
+
+    カルディコーヒーファームの商品は、購入することで地球を守る手段となる「バードフレンドリー®」や、貧困をなくすための仕組みがされている「ドイトンプロジェクト」があります。その商品に隠されたメッセージを私たちが理解し販売することが地球にやさしい生き方への第一歩となるでしょう。そしてそれは、お客さまを始め、家族、周囲の人々に必ず伝わり、地球の未来につながっていくと信じています。
 main:
   heading: Great coffee with no compromises
   description: >
@@ -68,3 +76,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
